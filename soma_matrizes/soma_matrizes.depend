@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1679007268 source:c:\users\foto\documents\andressa\ciência da computação\linguaguemc\codeblocks\soma_matrizes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1678993034 source:c:\users\foto\documents\andressa\ciência da computação\linguaguemc\pdi\soma_matrizes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
